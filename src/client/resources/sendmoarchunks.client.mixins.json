@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ichttt.mods.sendmoarchunks.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChunkBatchSizeCalculatorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": []
+}
